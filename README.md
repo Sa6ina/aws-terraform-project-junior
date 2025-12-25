@@ -29,4 +29,5 @@ This project demonstrates how to provision AWS infrastructure using Terraform.
 NGINX welcome page accessible via public IP address.
 
 ## 📷 Screenshot
-(Add screenshot of the browser showing “Welcome to nginx”)
+<img width="440" height="167" alt="image" src="https://github.com/user-attachments/assets/d14fb8f0-488d-4af0-b246-98fb352620d7" />
+
